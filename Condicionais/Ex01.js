@@ -1,6 +1,6 @@
 var prompt = require('prompt-sync')();
  
- let x = prompt("Olá, digite um número:");
+ let x = prompt("Olá, digite um número: ");
 
     if (x > 0) {
       console.log("O número é positivo.");

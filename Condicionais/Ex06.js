@@ -6,24 +6,24 @@ let Dia = Number(prompt("Diigte um dia da semana: "));
 
 switch (Dia){
     case 1:
-        console.log("O dia escolhi foi: domingo!")
+        console.log("O dia escolhido foi: domingo!")
     break;
     case 2:
-        console.log("O dia escolhi foi: segunda!")
+        console.log("O dia escolhido foi: segunda!")
     break;
     case 3:
-        console.log("O dia escolhi foi: terça!")
+        console.log("O dia escolhido foi: terça!")
     break;
     case 4:
-        console.log("O dia escolhi foi: quarta!")
+        console.log("O dia escolhido foi: quarta!")
     break;
     case 5:
-        console.log("O dia escolhi foi: quinta!")
+        console.log("O dia escolhido foi: quinta!")
     break;
     case 6:
-        console.log("O dia escolhi foi: sexta!")
+        console.log("O dia escolhido foi: sexta!")
     break;
     case 7:
-        console.log("O dia escolhi foi: sábado!")
+        console.log("O dia escolhido foi: sábado!")
     break;
 }

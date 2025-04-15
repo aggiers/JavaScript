@@ -1,6 +1,6 @@
 var prompt = require('prompt-sync')();
 
-let idade = prompt("Olá, digite a sua idade:");
+let idade = prompt("Olá, digite a sua idade: ");
 
 if(idade >= 18){
     console.log("Você pode tirar a carteira.")

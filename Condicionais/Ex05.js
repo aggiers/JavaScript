@@ -2,7 +2,7 @@
 
 var prompt = require('prompt-sync')();
 
-let nota = prompt("Digite a nota:");
+let nota = prompt("Digite a nota: ");
 
 if(nota >= 6){
     console.log("Esse aluno foi aprovado.")

@@ -2,7 +2,7 @@
 
 var prompt = require('prompt-sync')();
 
-let senha = prompt("Digite a senha:");;
+let senha = prompt("Digite a senha: ");;
 
 if(senha == "123"){
     console.log("A senha está correta.")
